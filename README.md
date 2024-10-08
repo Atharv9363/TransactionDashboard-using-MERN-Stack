@@ -60,10 +60,10 @@ Follow these steps to set up the project on your local machine:
 4. **Access the application**:
     Open your browser and visit http://localhost:5173 to view the application.
 
-### API Endpoints
+## API Endpoints
 The application uses several APIs to fetch and manage data:
 
-## Transaction APIs
+### Transaction APIs
 
 The application uses the following APIs to fetch and manage transactions:
 
@@ -85,7 +85,4 @@ The application uses the following APIs to fetch and manage transactions:
 
 
 ## Screenshots
-
-    ![alt text](assets/Screenshot%201.png)
-
-    ![alt text](assets/Screenshot%202.png)
+![Screenshot](assets/Screenshot.png)
